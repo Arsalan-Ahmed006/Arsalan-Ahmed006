@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="266" viewBox="0 0 900 266" font-family="'Fira Code','JetBrains Mono','Cascadia Code','Courier New',monospace" role="img" aria-label="~/about.txt">
+<rect x="1" y="1" width="898" height="264" rx="10" fill="#0a1f12" stroke="#1f5c33" stroke-width="2"/>
+<path d="M1 11a10 10 0 0 1 10-10h878a10 10 0 0 1 10 10v24H1z" fill="#143a21"/>
+<circle cx="24" cy="18" r="6" fill="#ff5f56"/><circle cx="44" cy="18" r="6" fill="#ffd23f"/><circle cx="64" cy="18" r="6" fill="#39d353"/>
+<text x="450" y="23" text-anchor="middle" font-size="12" fill="#7fae8c">~/about.txt</text>
+<text x="24" y="64" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#39d353" font-weight="700">arsalan@fast-nuces</tspan><tspan fill="#e6f4ea">:</tspan><tspan fill="#ffd23f">~</tspan><tspan fill="#e6f4ea">$ </tspan><tspan fill="#e6f4ea">cat about.txt</tspan></text>
+<text x="24" y="88" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#ffd23f">role         </tspan><tspan fill="#7fae8c">: </tspan><tspan fill="#39d353">Computer Science undergraduate</tspan></text>
+<text x="24" y="112" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#ffd23f">university   </tspan><tspan fill="#7fae8c">: </tspan><tspan fill="#39d353">FAST-NUCES, Karachi</tspan></text>
+<text x="24" y="136" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#ffd23f">degree       </tspan><tspan fill="#7fae8c">: </tspan><tspan fill="#39d353">BS Computer Science (2025 - 2029)</tspan></text>
+<text x="24" y="160" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#ffd23f">focus        </tspan><tspan fill="#7fae8c">: </tspan><tspan fill="#39d353">Full-stack web | AI engineering | Workflow automation</tspan></text>
+<text x="24" y="184" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#ffd23f">learning     </tspan><tspan fill="#7fae8c">: </tspan><tspan fill="#39d353">AI agents, RAG systems, LLM integrations, DSA</tspan></text>
+<text x="24" y="208" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#ffd23f">looking_for  </tspan><tspan fill="#7fae8c">: </tspan><tspan fill="#39d353">Software development / AI engineering internships</tspan></text>
+<text x="24" y="232" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#ffd23f">fun_fact     </tspan><tspan fill="#7fae8c">: </tspan><tspan fill="#39d353">I once built a Sudoku game that roasts you when you fail.</tspan></text>
+<rect x="24" y="238" width="9" height="16" fill="#ffd23f"><animate attributeName="opacity" values="1;0;1" dur="1s" begin="1.6399999999999997s" repeatCount="indefinite"/></rect>
+</svg>

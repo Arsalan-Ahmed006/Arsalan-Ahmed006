@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" font-family="'Fira Code','JetBrains Mono','Cascadia Code','Courier New',monospace" role="img" aria-label="~/stack.conf">
+<rect x="1" y="1" width="898" height="288" rx="10" fill="#0a1f12" stroke="#1f5c33" stroke-width="2"/>
+<path d="M1 11a10 10 0 0 1 10-10h878a10 10 0 0 1 10 10v24H1z" fill="#143a21"/>
+<circle cx="24" cy="18" r="6" fill="#ff5f56"/><circle cx="44" cy="18" r="6" fill="#ffd23f"/><circle cx="64" cy="18" r="6" fill="#39d353"/>
+<text x="450" y="23" text-anchor="middle" font-size="12" fill="#7fae8c">~/stack.conf</text>
+<text x="24" y="64" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#39d353" font-weight="700">arsalan@fast-nuces</tspan><tspan fill="#e6f4ea">:</tspan><tspan fill="#ffd23f">~</tspan><tspan fill="#e6f4ea">$ </tspan><tspan fill="#e6f4ea">cat stack.conf</tspan></text>
+<text x="24" y="88" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#ffd23f">languages    </tspan><tspan fill="#7fae8c">: </tspan><tspan fill="#39d353">JavaScript, TypeScript, Python, C++, HTML5, CSS3</tspan></text>
+<text x="24" y="112" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#ffd23f">frontend     </tspan><tspan fill="#7fae8c">: </tspan><tspan fill="#39d353">React, Next.js, Tailwind CSS, Framer Motion, Vite</tspan></text>
+<text x="24" y="136" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#ffd23f">backend      </tspan><tspan fill="#7fae8c">: </tspan><tspan fill="#39d353">Node.js, FastAPI, REST APIs, API Routes, Webhooks</tspan></text>
+<text x="24" y="160" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#ffd23f">databases    </tspan><tspan fill="#7fae8c">: </tspan><tspan fill="#39d353">PostgreSQL, Supabase, Prisma, SQLite</tspan></text>
+<text x="24" y="184" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#ffd23f">ai           </tspan><tspan fill="#7fae8c">: </tspan><tspan fill="#39d353">Google ADK, Gemini, AI Agents, RAG</tspan></text>
+<text x="24" y="208" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#ffd23f">automation   </tspan><tspan fill="#7fae8c">: </tspan><tspan fill="#39d353">n8n, GitHub REST API, Gmail API, Workflow Orchestration</tspan></text>
+<text x="24" y="232" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#ffd23f">tools        </tspan><tspan fill="#7fae8c">: </tspan><tspan fill="#39d353">Git, GitHub, VS Code, Docker</tspan></text>
+<text x="24" y="256" font-size="14" xml:space="preserve" opacity="1"><tspan fill="#ffd23f">practices    </tspan><tspan fill="#7fae8c">: </tspan><tspan fill="#39d353">Auth, RBAC, Input Validation, Logging, Error Handling</tspan></text>
+<rect x="24" y="262" width="9" height="16" fill="#ffd23f"><animate attributeName="opacity" values="1;0;1" dur="1s" begin="1.8199999999999996s" repeatCount="indefinite"/></rect>
+</svg>

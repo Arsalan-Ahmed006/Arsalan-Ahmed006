@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="222" viewBox="0 0 430 222" font-family="'Fira Code','JetBrains Mono','Cascadia Code','Courier New',monospace" role="img" aria-label="~/projects/sudoku">
+<rect x="1" y="1" width="428" height="220" rx="10" fill="#0a1f12" stroke="#1f5c33" stroke-width="2"/>
+<path d="M1 11a10 10 0 0 1 10-10h408a10 10 0 0 1 10 10v24H1z" fill="#143a21"/>
+<circle cx="24" cy="18" r="6" fill="#ff5f56"/><circle cx="44" cy="18" r="6" fill="#ffd23f"/><circle cx="64" cy="18" r="6" fill="#39d353"/>
+<text x="215" y="23" text-anchor="middle" font-size="12" fill="#7fae8c">~/projects/sudoku</text>
+<text x="24" y="62" font-size="18" xml:space="preserve" opacity="1"><tspan fill="#ffd23f" font-weight="700">Sudoku IQ Game</tspan></text>
+<text x="24" y="92" font-size="13" xml:space="preserve" opacity="1"><tspan fill="#39d353">A Sudoku game that turns solving speed and</tspan></text>
+<text x="24" y="112" font-size="13" xml:space="preserve" opacity="1"><tspan fill="#39d353">accuracy into an IQ score, and roasts you when</tspan></text>
+<text x="24" y="132" font-size="13" xml:space="preserve" opacity="1"><tspan fill="#39d353">you fail.</tspan></text>
+<text x="24" y="152" font-size="8" xml:space="preserve" opacity="1"><tspan fill="#39d353"> </tspan></text>
+<text x="24" y="164" font-size="12" xml:space="preserve" opacity="1"><tspan fill="#7fae8c">JavaScript</tspan></text>
+<text x="24" y="182" font-size="8" xml:space="preserve" opacity="1"><tspan fill="#39d353"> </tspan></text>
+<text x="24" y="192" font-size="13" xml:space="preserve" opacity="1"><tspan fill="#ffd23f" font-weight="700">&gt; view repository</tspan></text>
+
+</svg>
