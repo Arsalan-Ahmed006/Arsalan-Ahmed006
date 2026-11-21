@@ -1,108 +1,114 @@
-<!-- Profile README for github.com/Arsalan-Ahmed006
-     Put this file at the root of a repo named exactly "Arsalan-Ahmed006", together with the "assets" folder. -->
-
 <div align="center">
 
-<img src="./assets/banner.svg" alt="arsalan@fast-nuces: whoami - Arsalan Ahmed, CS undergraduate, full-stack and AI engineering" width="100%" />
+<img src="./assets/banner.svg" alt="Arsalan Ahmed. CS Undergraduate | Full-Stack & AI Engineering. BS Computer Science at FAST-NUCES, Karachi. Open to software development and AI engineering internships." width="100%" />
 
-<a href="https://github.com/Arsalan-Ahmed006">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=FFD23F&background=0A1F12&center=true&vCenter=true&width=700&height=50&lines=%3E+Building+full-stack+web+apps;%3E+Exploring+AI+agents+and+RAG+systems;%3E+Automating+workflows+with+n8n;%3E+Open+to+software+and+AI+internships" alt="Typing animation" />
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/arsalan-ahmed-4b025628b/"><img src="https://img.shields.io/badge/LinkedIn-connect-39D353?style=for-the-badge&logo=linkedin&logoColor=FFD23F&labelColor=0A1F12" alt="LinkedIn" /></a>
-<a href="mailto:arsalann.ahmad06@gmail.com"><img src="https://img.shields.io/badge/Email-send_mail-39D353?style=for-the-badge&logo=gmail&logoColor=FFD23F&labelColor=0A1F12" alt="Email" /></a>
-<a href="https://ironforge-gym-website-snowy.vercel.app/"><img src="https://img.shields.io/badge/IronForge-live_demo-39D353?style=for-the-badge&logo=vercel&logoColor=FFD23F&labelColor=0A1F12" alt="IronForge live demo" /></a>
+<a href="https://linkedin.com/in/arsalan-ahmed-4b025628b">LinkedIn</a> &nbsp;|&nbsp;
+<a href="mailto:arsalann.ahmad06@gmail.com">Email</a> &nbsp;|&nbsp;
+<a href="https://ironforge-gym-website-snowy.vercel.app/">IronForge live demo</a>
 
 </div>
 
-<br/>
+### `> about`
 
-<div align="center">
-  <img src="./assets/about.svg" alt="about.txt: role, university, degree, focus, learning, looking for, fun fact" width="100%" />
-</div>
+I'm a Computer Science undergraduate at FAST-NUCES, Karachi, building full-stack web applications and AI-powered systems. I work across Next.js and TypeScript frontends, Supabase and PostgreSQL data layers, and Python and FastAPI backends, and I automate workflows with n8n and API integrations.
 
-<br/>
+I'm especially interested in the engineering that makes AI features dependable: grounded retrieval, input validation, access control and human review. I'm currently building School AI Assistant 2.0, a security-focused continuation of my Google × Kaggle capstone.
 
-<div align="center">
-  <img src="./assets/stack.svg" alt="stack.conf: languages, frontend, backend, databases, AI, automation, tools, practices" width="100%" />
-</div>
+I'm looking for software development and AI engineering internships.
 
-<br/>
-
-<div align="center">
-
-### `> ls ~/projects`
-
-<a href="https://ironforge-gym-website-snowy.vercel.app/"><img src="./assets/ironforge.svg" alt="IronForge Fitness: live demo" width="49%" /></a>
-<a href="https://github.com/Arsalan-Ahmed006/school-ai-assistant"><img src="./assets/school-ai.svg" alt="School AI Assistant: repository" width="49%" /></a>
-<img src="./assets/n8n-backup.svg" alt="n8n Workflow Backup" width="49%" />
-<a href="https://github.com/Arsalan-Ahmed006/Sudoku-iq-Game"><img src="./assets/sudoku.svg" alt="Sudoku IQ Game: repository" width="49%" /></a>
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>$ cat ironforge/features.txt</b></summary>
-<br/>
-
-- Responsive, multi-page gym website with membership plans, training programs, trainer profiles, and customer inquiry functionality
-- AI-powered Concierge using Gemini AI that answers gym-related questions and guides visitors through available services
-- Supabase-backed administrative dashboard for managing customer inquiries and application data
-
-</details>
-
-<details>
-<summary><b>$ cat school-ai-assistant/features.txt</b></summary>
-<br/>
-
-- Multi-agent educational assistant using Google's Agent Development Kit (ADK) and Gemini
-- Knowledge-based parent FAQ answering and teacher lesson-plan generation using retrieval-augmented generation (RAG)
-- Authentication, role-based access control (RBAC), permission checks, and fail-closed knowledge retrieval to protect sensitive school information
-- Safeguarding-oriented request classification, evidence references, audit-oriented workflow controls, and human-review action proposals
-- Locally developed capstone project, not a public production deployment
-
-</details>
-
-<details>
-<summary><b>$ cat n8n-backup/features.txt</b></summary>
-<br/>
-
-- n8n workflow that exports workflow definitions and stores individual JSON backups in a GitHub repository
-- GitHub REST API integration that creates new backup files and updates existing ones using SHA-based version handling
-- Sequential workflow processing, JSON data transformation, and Gmail notifications reporting backup results
-
-</details>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/experience.svg" alt="timeline.log: PROCOM marketing team, Google x Kaggle AI Agents Intensive, ACM Coders Cup 25, BS Computer Science at FAST-NUCES" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### `> git stats`
-
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=Arsalan-Ahmed006&hide_border=false&include_all_commits=true&count_private=true&bg_color=0A1F12&title_color=FFD23F&text_color=39D353&icon_color=FFD23F&border_color=1F5C33" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Arsalan-Ahmed006&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0A1F12&title_color=FFD23F&text_color=39D353&border_color=1F5C33" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Arsalan-Ahmed006&background=0A1F12&border=1F5C33&ring=FFD23F&fire=FFD23F&currStreakNum=39D353&currStreakLabel=FFD23F&sideNums=39D353&sideLabels=FFD23F&dates=7FAE8C" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsalan-Ahmed006&bg_color=0A1F12&color=39D353&line=FFD23F&point=FFD23F&area=true&area_color=39D353&title_color=FFD23F&hide_border=true" alt="Contribution activity graph" />
-
-<br/>
+### `> stack`
 
 ```text
-while (alive) { learn(); build(); ship(); }
+$ cat stack.conf
+programming : JavaScript, TypeScript, Python, C++
+frontend    : React.js, Next.js, HTML5, CSS3, Tailwind CSS,
+              Framer Motion
+backend     : FastAPI, REST APIs, API Routes, Webhooks
+databases   : PostgreSQL, Supabase
+ai          : Google ADK, Gemini, AI Agents, RAG
+automation  : n8n, Workflow Orchestration, API Integration,
+              GitHub REST API, Gmail Integration
+tools       : Git, GitHub, VS Code, Antigravity
+practices   : Authentication, RBAC, Input Validation, Logging,
+              Error Handling
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Arsalan-Ahmed006&icon=0&color=39D353&label=PROFILE+VIEWS&labelColor=0A1F12" alt="Profile views" />
+### `> featured_projects`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F12,100:1F5C33&height=90&section=footer" alt="footer" />
-
+<div align="center">
+<a href="https://ironforge-gym-website-snowy.vercel.app/"><img src="./assets/ironforge.svg" alt="IronForge Fitness. Gym website built with Next.js, TypeScript, Tailwind CSS, Framer Motion, Supabase and Gemini AI. Live demo available; source code is private." width="430" /></a>
 </div>
+
+<div align="center">
+<a href="https://github.com/Arsalan-Ahmed006/school-ai-assistant"><img src="./assets/school-ai.svg" alt="School AI Assistant 1.0. Google x Kaggle capstone by a two-person team, built with Python, Google ADK, Gemini 2.5 Flash, FastAPI and RAG. Public repository." width="430" /></a>
+</div>
+
+<br/>
+
+| Project | Details |
+|---|---|
+| **IronForge Fitness** | Responsive multi-page gym website with membership plans, training programs, trainer profiles and customer inquiry functionality. A Gemini-powered AI Concierge answers gym-related questions and guides visitors through services, and a Supabase-backed administrative dashboard manages customer inquiries and application data.<br/><br/>**Links:** [Live demo](https://ironforge-gym-website-snowy.vercel.app/) · **Source code: private** (the live site does not expose it) |
+| **School AI Assistant 1.0** | Google × Kaggle 5-Day AI Agents Intensive capstone (submitted and approved). A multi-agent educational assistant built with Google ADK: a root agent routes parent enquiries and teacher lesson-planning requests to specialist agents, which answer using school policy and curriculum PDFs through retrieval tools. Runs locally through the ADK playground and a FastAPI server; not a deployed product.<br/><br/>**Team of two.** My part: Parent FAQ agent, Google ADK integration, tool calling, RAG and FastAPI integration. Manzar Rasool: Teacher Lesson Planning agent, security guardrails, testing and documentation, as credited in the repository README.<br/><br/>**Links:** [Public repository](https://github.com/Arsalan-Ahmed006/school-ai-assistant) |
+
+### `> currently_building`
+
+<div align="center">
+<img src="./assets/school-ai-v2.svg" alt="School AI Assistant 2.0. In development, not public. Focuses on access control, permission-aware retrieval, audit-oriented controls and human-review workflows." width="430" />
+</div>
+
+<br/>
+
+**School AI Assistant 2.0** is a separate, more advanced continuation of the school assistant. Version 1.0 is a capstone prototype that demonstrates multi-agent routing and grounded retrieval; version 2.0 focuses on a security-focused backend architecture and responsible AI workflow controls. Development scope includes:
+
+- Authentication and identity handling
+- Role-based access control (RBAC)
+- Permission-aware, fail-closed knowledge retrieval
+- Safeguarding-oriented request classification
+- Evidence references and audit-oriented workflow controls
+- Human-review action proposals
+- Automated tests and backend security architecture
+
+**Status:** in development. It is not deployed yet, and there is no public repository at this stage. A public deployment is planned once development is complete.
+
+### `> additional_projects`
+
+| Project | Stack | What it does | Source |
+|---|---|---|---|
+| **n8n Workflow Backup Automation** | n8n, GitHub REST API, Gmail API, JavaScript, JSON | Exports n8n workflow definitions and keeps an individual JSON backup of each in a GitHub repository. Creates new files and updates existing ones through SHA-based version handling, processes workflows sequentially, and emails the backup results through Gmail. | Private |
+| **Sudoku IQ Game** | JavaScript, HTML, CSS | Sudoku game featuring a countdown timer, duplicate validation, an accuracy-weighted IQ-style score, local score history, and score-based feedback. | [Repository](https://github.com/Arsalan-Ahmed006/Sudoku-iq-Game) |
+| **Quiz Game** (The Dark Quiz) | JavaScript, HTML, CSS | Timed coding quiz covering six programming and web technologies, with multiple question formats, lives, level progression, per-question timers, and local progress persistence. | [Repository](https://github.com/Arsalan-Ahmed006/Quiz-Game) |
+
+### `> education_and_experience`
+
+```text
+$ cat timeline.log
+Aug 2025 - Jul 2029   BS Computer Science
+                      FAST-NUCES, Karachi
+
+Feb 2026 - present    Marketing Team Member, PROCOM
+                      FAST-NUCES
+                      - Sponsorship outreach and professional
+                        communication with prospective sponsors
+                      - Event marketing and promotional campaigns
+                      - Team coordination
+```
+
+### `> certifications_and_activities`
+
+```text
+$ cat activities.log
+Google x Kaggle - 5-Day AI Agents Intensive
+  Practical AI agent development training; submitted a
+  capstone project that was approved.
+
+ACM Coders Cup '25 - Data Dash (participant)
+  Data analytics competition involving messy datasets,
+  data interpretation and analytical problem-solving.
+```
+
+### `> contact`
+
+- **Email:** [arsalann.ahmad06@gmail.com](mailto:arsalann.ahmad06@gmail.com)
+- **LinkedIn:** [linkedin.com/in/arsalan-ahmed-4b025628b](https://linkedin.com/in/arsalan-ahmed-4b025628b)
+- **GitHub:** [github.com/Arsalan-Ahmed006](https://github.com/Arsalan-Ahmed006)
+- **IronForge live demo:** [ironforge-gym-website-snowy.vercel.app](https://ironforge-gym-website-snowy.vercel.app/)
